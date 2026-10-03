@@ -2,3 +2,4 @@ Hello DevOps
 Docker
 AWS
 Kubernetes
+Day 7 Practice
